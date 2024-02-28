@@ -27,7 +27,7 @@ immatricolazione|date|notnull
 km_fatti|int|notnull
 allestimento|varchar|notnull
 alimentazione|char (6)|notnull
-più_propietari_precedenti|char (1)|null || tinyint|null
+più_proprietari_precedenti|char (1)|null || tinyint|null
 tipo_marcia|char(1)|notnull
 potenza|mediumint|null
 permuta|char(1)|notnull
